@@ -1,0 +1,31 @@
+SEMILLERO EN TICS I.T.M 2014.
+
+Profesor investigador Alexander Arias.
+Estudiante ingenieria en sistemas de informacion Yonatan Alexis Quintero Rodriguez.
+
+El software se distribuye con fines educativos y sin animo de lucro.
+
+Nombre de la aplicacion Revomanu (Reconocimiento de Voz y manual).
+
+REVOMANU, es un software que cuenta con reconocimiento de voz para ejectuar eventos dentro del programa, adicional viene con los botones para el cado que no podamos usar un microfono para usar REVOMANU
+
+COMO USAR LA APLICACION.
+
+Antes de abrir la aplicacion nos aseguramos de tener un mircrofono instalado.
+
+Los comandos de voz que reconoce REVOMANU son los siguientes:
+-Para la seccion de leds.
+*Led Amarillo.
+*Led Rojo.
+*Led Azul.
+*Led Verde.
+*Prender Todos.
+*Apagar Todos.
+-Para la seccion de Musica.
+*Play Musica.
+*Stop Musica.
+-Para la seccion de Video.
+*Play Video
+*Stop video.
+Adicionalmente viene con sus respectivos botones para ejectuar los eventos ya mencionados.
+		
